@@ -1,0 +1,11 @@
+1.a) Utilizado para criar um novo repositório GIT
+1.b) Utilizado para fins de verificação de repositório
+1.c) Utilizado para criar, listar ou excluir ramos
+1.d) Utilizado para criar ou alternar entre ramos
+1.e) Utilizado para obter todos os objetos do repositório remoto que não estão no diretório local
+1.f) Utilizado para mesclar alterações presentes no repositório remoto para o local
+1.g) Utilizado para adicionar arquivos ao índice
+1.h) Utilizado para confirmar alterações
+1.i) Utilizado para enviar alterações feitas para o ramo mestre do repositório remoto
+
+2) O "git pull", mescla somente as alterações feitas no repositório, o "git fetch" obtem todos os dados do repositório, ou seja, o pull apenas atualiza as alterações, já o fetch, altera os arquivos para os mais atuais
